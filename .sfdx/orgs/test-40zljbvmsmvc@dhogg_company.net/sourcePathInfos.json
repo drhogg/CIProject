@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517501156877,
+            "changeTime": 1517501156877,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517501156877,
+            "changeTime": 1517501156877,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1517503645231,
+            "changeTime": 1517503645231,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1517501156877,
+            "changeTime": 1517501156877,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1517501708502,
+            "changeTime": 1517501708502,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects/Account/fields/SomeField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects/Account/fields/SomeField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1517503645176,
+            "changeTime": 1517503645176,
+            "contentHash": "c8c3733b14dc8d209e8f674fe42ca5c6443b3b15"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9709,
+            "modifiedTime": 1517503645188,
+            "changeTime": 1517503645188,
+            "contentHash": "d1b4401465e48665b025c0492c8a5589462e7c1c"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9757,
+            "modifiedTime": 1517503645196,
+            "changeTime": 1517503645196,
+            "contentHash": "54e9c204c55cd9bb2ed279bef1bbd693f5d6e25f"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9709,
+            "modifiedTime": 1517503645201,
+            "changeTime": 1517503645201,
+            "contentHash": "f8f80380d0273123ce1e2479248521c0cf370efb"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9757,
+            "modifiedTime": 1517503645205,
+            "changeTime": 1517503645205,
+            "contentHash": "1b1adb6e9ea1701e40c70ac298d5c884bdc9f40d"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4370,
+            "modifiedTime": 1517503645208,
+            "changeTime": 1517503645208,
+            "contentHash": "b78b381ed0cc22aff4e7007cb1ff35fd5b56b893"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4710,
+            "modifiedTime": 1517503645215,
+            "changeTime": 1517503645215,
+            "contentHash": "a7ce67184c4f6cdd488ffbfd0bb89218a69e47a8"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4374,
+            "modifiedTime": 1517503645219,
+            "changeTime": 1517503645219,
+            "contentHash": "d433f61f1f46eea60e202ad6026c7477c7f64c54"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17056,
+            "modifiedTime": 1517503645229,
+            "changeTime": 1517503645229,
+            "contentHash": "b4437695e884c67f22c7d2dfc68a89aaf5b6761c"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/permissionsets/SomePermissionSet.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/permissionsets/SomePermissionSet.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1517503645231,
+            "changeTime": 1517503645231,
+            "contentHash": "806b90a6f56520ddd2e0be682c8b73e85d4097ae"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517503645176,
+            "changeTime": 1517503645176,
+            "contentHash": "b52ee16700e446821da5ea2a2c0566a345974e38"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517503645175,
+            "changeTime": 1517503645175,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517503645175,
+            "changeTime": 1517503645175,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517503645205,
+            "changeTime": 1517503645205,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517503645229,
+            "changeTime": 1517503645229,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhogg/Documents/workspace/PFG/CI/CIProject/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517503645231,
+            "changeTime": 1517503645231,
+            "contentHash": "da991fef44e1f3b91530e339fbe2c8311b7b48a4"
+        }
+    ]
+]
